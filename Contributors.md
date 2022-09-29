@@ -94,6 +94,7 @@
 - [Shalaka Waghamale](https://github.com/sheldonholic)
 - [AdarsH](https://github.com/AKACHI-4)
 - [Ankit Kumar](https://github.com/ReallyAnkit)
+- [Janvi P](https://github.com/janvi213)
 - [Srishti](https://github.com/srishti011)
 - [Santosh James](https://github.com/Santosh-James)
 - [Henrik Larsen](https://github.com/HenrikWintherLarsen)
